@@ -258,27 +258,18 @@ This project demonstrates:
 - **Python 3.8+**: Programming language
 
 ---
+## 📄 License
 
-## 📝 License
-
-This project is for educational purposes (MLOps course TP6).
-
----
-
-## 🤝 Contributing
-
-This is an educational project. For improvements:
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Submit a pull request
+This project is for educational purposes (MLOps course).
 
 ---
 
-## 📧 Contact
+<div align="center">
 
-For questions about this project, please contact your course instructor.
+**Réalisé par Aymen MABROUK**
 
----
+*Sous la supervision de Dr. Salah GONTARA*
 
-**Built with ❤️ for MLOps education**
+École Polytechnique Sousse | 2025-2026
+
+</div>
