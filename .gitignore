@@ -1,0 +1,97 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+.Python
+
+# MLflow
+mlruns/
+mlartifacts/
+mlflow.db
+
+# YOLO
+runs/
+yolov8*.pt
+yolo11*.pt
+*.pt
+!yolov8n.pt.README.md
+
+# DVC
+.dvc/cache/
+.dvc/tmp/
+
+# Dataset (generated)
+data/tiny_coco/images/
+data/tiny_coco/labels/
+build/
+
+# Reports (generated during TP)
+reports/*.csv
+reports/OPTUNA_DECISION.md
+reports/yolo_optuna_study_results.csv
+
+# Images (screenshots - added during TP)
+images/*.png
+images/*.jpg
+!images/.gitkeep
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+*.sublime-*
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+.Spotlight-V100
+.Trashes
+
+# Docker volumes (persistent data)
+*.db
+
+# Logs
+*.log
+logs/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# Pytest
+.pytest_cache/
+.coverage
+htmlcov/
+
+# MyPy
+.mypy_cache/
+.dmypy.json
+dmypy.json

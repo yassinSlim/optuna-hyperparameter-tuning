@@ -1,0 +1,9 @@
+# This directory will contain screenshots for the TP6 report
+
+Expected screenshots:
+- mlflow_ui_initial.png
+- baseline_run.png
+- grid_comparison.png
+- optuna_comparison.png
+- best_run_artifacts.png
+- minio_console.png (optional)
