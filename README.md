@@ -266,7 +266,7 @@ This project is for educational purposes (MLOps course).
 
 <div align="center">
 
-**Réalisé par Aymen MABROUK**
+**Réalisé par Yassine slim **
 
 *Sous la supervision de Dr. Salah GONTARA*
 
